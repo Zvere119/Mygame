@@ -1,0 +1,15 @@
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\testCaseBlueprint\testCaseBlueprint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\testCaseBlueprint\testCaseBlueprint\bin\Debug\testCaseBlueprint.exe
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\testCaseBlueprint\testCaseBlueprint\bin\Debug\testCaseBlueprint.pdb
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\testCaseBlueprint\testCaseBlueprint\obj\Debug\testCaseBlueprint.exe
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\testCaseBlueprint\testCaseBlueprint\obj\Debug\testCaseBlueprint.pdb
+F:\visual studio 2005\testCaseBlueprint\testCaseBlueprint\obj\Debug\testCaseBlueprint.exe
+F:\visual studio 2005\testCaseBlueprint\testCaseBlueprint\obj\Debug\testCaseBlueprint.pdb
+F:\visual studio 2005\testCaseBlueprint\testCaseBlueprint\bin\Debug\testCaseBlueprint.exe
+F:\visual studio 2005\testCaseBlueprint\testCaseBlueprint\bin\Debug\testCaseBlueprint.pdb
+F:\visual studio 2005\testCaseBlueprint\testCaseBlueprint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhansen\Documents\testCaseBlueprint\testCaseBlueprint\obj\Debug\testCaseBlueprint.exe
+C:\Users\rhansen\Documents\testCaseBlueprint\testCaseBlueprint\obj\Debug\testCaseBlueprint.pdb
+C:\Users\rhansen\Documents\testCaseBlueprint\testCaseBlueprint\bin\Debug\testCaseBlueprint.exe
+C:\Users\rhansen\Documents\testCaseBlueprint\testCaseBlueprint\bin\Debug\testCaseBlueprint.pdb
+C:\Users\rhansen\Documents\testCaseBlueprint\testCaseBlueprint\obj\Debug\ResolveAssemblyReference.cache
