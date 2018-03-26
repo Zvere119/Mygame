@@ -1,0 +1,15 @@
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\Smokin meats!\Smokin meats!\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\Smokin meats!\Smokin meats!\bin\Debug\Smokin meats!.exe
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\Smokin meats!\Smokin meats!\bin\Debug\Smokin meats!.pdb
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\Smokin meats!\Smokin meats!\obj\Debug\Smokin meats!.exe
+C:\Users\rhansen\Documents\Visual Studio 2005\Projects\Smokin meats!\Smokin meats!\obj\Debug\Smokin meats!.pdb
+F:\visual studio 2005\Smokin meats!\Smokin meats!\obj\Debug\Smokin meats!.exe
+F:\visual studio 2005\Smokin meats!\Smokin meats!\obj\Debug\Smokin meats!.pdb
+F:\visual studio 2005\Smokin meats!\Smokin meats!\bin\Debug\Smokin meats!.exe
+F:\visual studio 2005\Smokin meats!\Smokin meats!\bin\Debug\Smokin meats!.pdb
+F:\visual studio 2005\Smokin meats!\Smokin meats!\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rhansen\Documents\Smokin meats!\Smokin meats!\obj\Debug\Smokin meats!.exe
+C:\Users\rhansen\Documents\Smokin meats!\Smokin meats!\obj\Debug\Smokin meats!.pdb
+C:\Users\rhansen\Documents\Smokin meats!\Smokin meats!\bin\Debug\Smokin meats!.exe
+C:\Users\rhansen\Documents\Smokin meats!\Smokin meats!\bin\Debug\Smokin meats!.pdb
+C:\Users\rhansen\Documents\Smokin meats!\Smokin meats!\obj\Debug\ResolveAssemblyReference.cache
